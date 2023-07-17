@@ -1,5 +1,3 @@
-# AskMe Project
+# AskMe
 
-AskMe is a question and answer project build depending on object oriented concepts
-it's use local storage to save data
- 
+AskMe is a C++ project built using object-oriented concepts that allows users to ask and answer questions. It uses local storage to save data.
